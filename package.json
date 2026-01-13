@@ -17,7 +17,7 @@
     "type": "git",
     "url": "https://github.com/mia-care/fastify-starter.git"
   },
-  "author": "Edoardo Crippa",
+  "author": "Mia-Care R&D Team",
   "license": "Apache-2.0",
   "devDependencies": {
     "@mia-platform/eslint-config-mia": "^3.0.0",
