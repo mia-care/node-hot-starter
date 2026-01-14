@@ -1,6 +1,6 @@
 {
   "name": "node-hot-starter",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "A very opinionated Fastify Plugin to kickstart your project",
   "main": "src/index.js",
   "types": "src/types/index.d.ts",

@@ -7,19 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [2.0.0] - (2025-03-23)
-
-### Dependencies
-
-- Upgraded peer dependencies, now it supports from Fastify > v5
-
-## [1.0.1] - (2024-09-18)
-
-### Fix
-
-- Fastify v5 is now allowed
-
-## [1.0.0] - (2024-09-04)
+## [1.0.0] - (2026-01-14)
 
 ### Features
 
